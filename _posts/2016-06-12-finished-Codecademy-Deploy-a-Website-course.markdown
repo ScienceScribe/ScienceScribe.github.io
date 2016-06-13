@@ -8,5 +8,7 @@ Learned how to deploy a static website generated with Jekyll to GitHub pages. So
 
 Thanks Codecademy!
 
-Codecademy's Deploy a Website course: https://www.codecademy.com/learn/deploy-a-website
+Codecademy's Deploy a Website course: [https://www.codecademy.com/learn/deploy-a-website]
+
+[https://www.codecademy.com/learn/deploy-a-website]: https://www.codecademy.com/learn/deploy-a-website
 
