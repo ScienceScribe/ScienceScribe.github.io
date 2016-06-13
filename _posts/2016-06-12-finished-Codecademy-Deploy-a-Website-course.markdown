@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Finished Codecademy's **Deploy** a Website course"
+title:  "Finished Codecademy's Deploy a Website course"
 date:   2016-06-12
 categories: jekyll update
 ---
