@@ -10,7 +10,5 @@ Thanks Codecademy!
 
 
 
-Codecademy's **Deploy a Website** course: [https://www.codecademy.com/learn/deploy-a-website][course-url]
-
-[course-url]: https://www.codecademy.com/learn/deploy-a-website
+Codecademy's **Deploy a Website** course: <https://www.codecademy.com/learn/deploy-a-website>
 
