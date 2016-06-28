@@ -4,7 +4,7 @@ title:  "Twitter API course by Codecademy"
 date:   2016-06-28
 categories: jekyll update
 ---
-Codecademy has a nice set of API courses tucked away on their own [webpage][API-courses], separate from the [main course offerings][main-courses]. I had been eyeing the [**Twitter API** course][Twitter-API-course] for a while, but it is Ruby-based, so first I wanted to learn how to program in Ruby. I finished Codecademy's [Ruby course][Ruby-course] last month, so as a reward, I could take the Twitter API course armed with my newly acquired Ruby syntax knowledge.
+Codecademy has a nice set of [API courses][API-courses] tucked away on their own webpage, separate from the [main course offerings][main-courses]. I had been eyeing the [**Twitter API** course][Twitter-API-course] for a while, but it is Ruby-based, so first I wanted to learn how to program in Ruby. I finished Codecademy's [Ruby course][Ruby-course] last month, so as a reward, I could take the Twitter API course armed with my newly acquired Ruby syntax knowledge.
 
 The first unit of the course introduced HTTP, REST (**Re**presentational **S**tate **T**ransfer), HTTP methods, responses, and status codes, XML, and JSON.
 
